@@ -1,0 +1,6 @@
+{
+    "item.smartphone.name": "Smartphone",
+    "tile.cellular_tower.name": "Cellular Tower",
+    "tile.operator_server.name": "Operator Server",
+    "tile.payment_terminal.name": "Payment Terminal"
+}
